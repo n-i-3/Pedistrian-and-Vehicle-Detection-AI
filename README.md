@@ -10,14 +10,14 @@ To Detect Pedestrians and Vehicles On a road
 
 ## How to install:
 
-pip install opencv-python
-pip install opencv-python-headless
-pip install matplotlib
+pip install opencv-python<br>
+pip install opencv-python-headless<br>
+pip install matplotlib<br>
 
 ## How to Run:
 
-Navigate to the folder you want to use and directly run the .py file
-And if you want to use your own video than delete the sample_video
-Add your own sample and rename the video as sample_video
+Navigate to the folder you want to use and directly run the .py file<br>
+And if you want to use your own video than delete the sample_video<br>
+Add your own sample and rename the video as sample_video<br>
 
 
