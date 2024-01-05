@@ -5,7 +5,7 @@ print('Cars detection AI')
 print('By Nitin Kumar Singh')
 
 cascade_src = 'cars.xml'
-video_src = 'sample_video.avi'
+video_src = 'sample_video.mp4'
 cap = cv2.VideoCapture(video_src)
 
 car_cascade = cv2.CascadeClassifier(cascade_src)
