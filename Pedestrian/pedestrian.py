@@ -26,6 +26,3 @@ while True:
     
     plt.imshow(cv2.cvtColor(frame, cv2.COLOR_BGR2RGB))
     plt.pause(0.01)  
-
-
-cv2.destroyAllWindows()
