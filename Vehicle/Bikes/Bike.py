@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 print('Welcome to Bike Detection System by Nitin Kumar Singh')
 
 cascade_src = 'two_wheeler.xml'
-video_src = 'two_wheeler2.mp4'
+video_src = 'sample_video.mp4'
 cap = cv2.VideoCapture(video_src)
 
 bike_cascade = cv2.CascadeClassifier(cascade_src)
