@@ -4,9 +4,9 @@ Usage:
 To Detect Pedestrians and Vehicles On a road
 
 ## System Requirements:
-1~ Python
-2~ Open CV library
-3~ Matploitlib
+1~ Python<br>
+2~ Open CV library<br>
+3~ Matploitlib<br>
 
 ## How to install:
 
